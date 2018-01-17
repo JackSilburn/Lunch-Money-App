@@ -1,0 +1,33 @@
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Lunch Money App.dll.config
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Lunch Money App.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Lunch Money App.pdb
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Antlr3.Runtime.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Newtonsoft.Json.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.Helpers.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.Mvc.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.Optimization.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.Razor.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.WebPages.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.WebPages.Razor.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\WebGrease.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.Helpers.xml
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.Mvc.xml
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.Optimization.xml
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.Razor.xml
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.WebPages.xml
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\System.Web.WebPages.Razor.xml
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Antlr3.Runtime.pdb
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Newtonsoft.Json.xml
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Microsoft.ApplicationInsights.xml
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\obj\Debug\Lunch Money App.csprojResolveAssemblyReference.cache
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\obj\Debug\Lunch Money App.csproj.CoreCompileInputs.cache
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\obj\Debug\Lunch Money App.dll
+C:\Users\3119\Desktop\Code Work\New Code\Projects\Lunch Money App\Source\Application\Lunch Money App\Lunch Money App\obj\Debug\Lunch Money App.pdb
